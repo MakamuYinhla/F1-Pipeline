@@ -1,0 +1,14 @@
+[2026-10-27 13:43:48] INFO    | Starting Extraction Process
+[2026-10-27 13:43:48] INFO    | Settings file loaded
+[2026-10-27 13:43:48] INFO    | URLs Loaded
+[2026-10-27 13:48:21] INFO    | Starting Extraction Process
+[2026-10-27 13:48:21] INFO    | Settings file loaded
+[2026-10-27 13:48:21] INFO    | URLs Loaded
+[2026-10-27 13:48:21] INFO    | Starting extracting data for drivers
+[2026-10-27 13:48:23] INFO    | Finalizing file : C:\Users\Yinhla\Desktop\Projects\Youtube Stuff\F1 Pipeline\data/drivers.csv
+[2026-10-27 13:48:23] INFO    | Starting extracting data for sessions
+[2026-10-27 13:48:24] INFO    | Finalizing file : C:\Users\Yinhla\Desktop\Projects\Youtube Stuff\F1 Pipeline\data/sessions.csv
+[2026-10-27 13:48:24] INFO    | Starting extracting data for session_results
+[2026-10-27 13:48:26] INFO    | Finalizing file : C:\Users\Yinhla\Desktop\Projects\Youtube Stuff\F1 Pipeline\data/session_results.csv
+[2026-10-27 13:48:26] INFO    | Starting extracting data for meetings
+[2026-10-27 13:48:27] INFO    | Finalizing file : C:\Users\Yinhla\Desktop\Projects\Youtube Stuff\F1 Pipeline\data/meetings.csv
