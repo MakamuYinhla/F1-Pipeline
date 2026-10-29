@@ -54,6 +54,8 @@ def logger_setup(log_folder, process_type):
         interval=1,
         backupCount=7
     )
+
+    handler.process_type = process_type
     handler.setFormatter(log_formatter)
 
     console_handler = logging.StreamHandler()
